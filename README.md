@@ -10,7 +10,7 @@
 -
 -
 -
-- dashboard interaction <a href="https://public.tableau.com/app/profile/yixin.zhu3122/viz/HRAnalyticsDashboard_17789752114300/HRAnalyticsDashboard">view dashboard</a>
+- <a href="https://public.tableau.com/app/profile/yixin.zhu3122/viz/HRAnalyticsDashboard_17789752114300/HRAnalyticsDashboard">View Dashboard</a>
 
 ## Process
 -
