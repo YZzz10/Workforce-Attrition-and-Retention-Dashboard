@@ -1,7 +1,7 @@
 # HR Workforce Analytics Dashboard
 
 ## Project Objective
-The objective of this project is to analyze complaint patterns across time, geography, issue types, response status, and submission channels using an interactive dashboard with key KPI tracking and visual exploration.
+To analyze employee data and identify key patterns in workforce structure and attrition to support data-driven HR decision-making.
 
 ## Dataset Used
 - <a href="https://github.com/YZzz10/HR-Analytics-Dashboard/blob/main/HR%20Dataset.xlsx">HR Dataset</a>
