@@ -18,6 +18,7 @@ The objective of this project is to analyze complaint patterns across time, geog
 - **Department-wise Attrition** shows the number and percentage of employees who left in each department.
 - **Employee Count by Age Group** shows employee count by age group, with bin size dynamically controlled by a filter.
 - **Job Satisfaction Rating** pivot table displays employee counts by job role (rows) and job satisfaction rating (columns).
+- **Education Field-wise Attrition** shows the education background of attrited employees, sorted in descending order.
 
 
 ## View Dashboard
