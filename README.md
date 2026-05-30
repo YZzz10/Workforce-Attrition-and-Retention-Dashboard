@@ -7,11 +7,11 @@ The objective of this project is to analyze complaint patterns across time, geog
 - <a href="https://github.com/YZzz10/HR-Analytics-Dashboard/blob/main/HR%20Dataset.xlsx">HR Dataset</a>
 
 ## KPI Metrics
-- Total number of employees in the dataset (including both active and attrited employees).
-- Number of employees who have left the company.
-- Percentage of employees who have left the company.
-- Number of employees currently working in the company.
-- Average age of all employees (both active and left).
+- Total number of employees in the dataset (including both active and attrited employees)
+- Number of attrited employees
+- Percentage of attrited employees
+- Number of active employees
+- Average age of all employees (both active and attrited)
 
 ## Visualization Overview
 - **Attrition by Gender** shows gender distribution of employees who have left the company.
