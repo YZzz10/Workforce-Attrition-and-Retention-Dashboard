@@ -19,18 +19,17 @@ The objective of this project is to analyze complaint patterns across time, geog
 - **Employee Count by Age Group** shows employee count by age group, with bin size dynamically controlled by a filter.
 - **Job Satisfaction Rating** pivot table displays employee counts by job role (rows) and job satisfaction rating (columns).
 - **Education Field-wise Attrition** shows the education background of attrited employees, sorted in descending order.
-
+- **Attrition Rate by Gender Across Age Groups** shows the gender distribution of attrited employees across different age groups.
 
 ## View Dashboard
-<a href="">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
+<a href="https://public.tableau.com/app/profile/yixin.zhu3122/viz/HRAnalyticsDashboard_17789752114300/HRAnalyticsDashboard">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
 
 ## Process
 - Transformed binary categorical values into numeric encoding to facilitate quantitative analysis.
 - Converted continuous variables into discrete bins to facilitate visualization and analysis.
-- Missing values were handled within the dashboard by excluding null entries to ensure clarity and accuracy in the charts.
 
 ## Dashboard
-
+<img width="1600" height="900" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/103a0ada-6ba1-450b-9594-90692ec0b12b" />
 
 ## Project Insight
 -
