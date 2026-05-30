@@ -4,7 +4,7 @@
 The objective of this project is to analyze complaint patterns across time, geography, issue types, response status, and submission channels using an interactive dashboard with key KPI tracking and visual exploration.
 
 ## Dataset Used
-<a href="https://github.com/YZzz10/Credit-Card-Complaint-Dashboard/blob/main/Credit%20Card%20Data.xlsx">HR Dataset</a>
+<a href="https://github.com/YZzz10/HR-Analytics-Dashboard/blob/main/HR%20Dataset.xlsx">HR Dataset</a>
 
 ## KPI Metrics
 - Total number of employees in the dataset (including both active and left employees).
