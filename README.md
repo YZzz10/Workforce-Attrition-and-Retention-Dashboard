@@ -1,4 +1,4 @@
-# HR Analytics Dashboard
+# HR Workforce Analytics Dashboard
 
 ## Project Objective
 The objective of this project is to analyze complaint patterns across time, geography, issue types, response status, and submission channels using an interactive dashboard with key KPI tracking and visual exploration.
@@ -7,7 +7,7 @@ The objective of this project is to analyze complaint patterns across time, geog
 - <a href="https://github.com/YZzz10/HR-Analytics-Dashboard/blob/main/HR%20Dataset.xlsx">HR Dataset</a>
 
 ## KPI Metrics
-- Total number of employees in the dataset (including both active and left employees).
+- Total number of employees in the dataset (including both active and attrited employees).
 - Number of employees who have left the company.
 - Percentage of employees who have left the company.
 - Number of employees currently working in the company.
