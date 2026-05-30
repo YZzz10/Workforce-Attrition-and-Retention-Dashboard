@@ -14,7 +14,8 @@ The objective of this project is to analyze complaint patterns across time, geog
 - Average age of all employees (both active and left).
 
 ## Visualization Overview
-- The **Attrition by Gender** Chart shows gender distribution of employees who have left the company.
+- **Attrition by Gender** shows gender distribution of employees who have left the company.
+- **Department-wise Attrition** shows the number and percentage of employees who left in each department.
 
 
 ## View Dashboard
