@@ -23,6 +23,7 @@ The objective of this project is to analyze complaint patterns across time, geog
 
 ## Process
 - Transformed binary categorical values into numeric encoding to facilitate quantitative analysis.
+- Converted continuous variables into discrete bins to facilitate visualization and analysis.
 - Missing values were handled within the dashboard by excluding null entries to ensure clarity and accuracy in the charts.
 
 ## Dashboard
