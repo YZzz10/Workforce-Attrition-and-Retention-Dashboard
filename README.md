@@ -9,8 +9,8 @@ The objective of this project is to analyze complaint patterns across time, geog
 ## KPI Metrics
 - Total number of employees in the dataset (including both active and left employees).
 - Number of employees who have left the company.
-- Number of employees currently working in the company.
 - Percentage of employees who have left the company.
+- Number of employees currently working in the company.
 - Average age of all employees (both active and left).
 
 ## Visualization Overview
