@@ -14,7 +14,7 @@ The objective of this project is to analyze complaint patterns across time, geog
 - Average age of all employees (both active and left).
 
 ## Visualization Overview
-- The **Trend** Chart shows complaint trends over time, with a parameter-driven filter that dynamically adjusts the time granularity between day, week, month, quarter, and year.
+- The **Attrition by Gender** Chart shows gender distribution of employees who have left the company
 - The **State-wise Complaints** map shows the geographic distribution of complaints across the United States, with the ability to switch between filled and density map views via the "Select Map" filter.
 - The **Top Issues** chart displays the top 10 complaint issues by total complaint volume.
 - The **Company Response** chart displays the distribution of response status by count and percentage of total responses.
