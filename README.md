@@ -34,7 +34,7 @@ To analyze employee data and identify key patterns in workforce structure and at
 ## Project Insight
 - The overall attrition rate is 16.12%. Among attrited employees, 63.29% are male and 36.71% are female, with male attrition counts consistently higher across all age groups.
 - Attrition is concentrated in two departments, with R&D accounting for 56.12% of attrited employees and Sales accounting for 38.82%.
-- Within the attrited employee group, 41.22% have an Education Field of Life Sciences, followed by Medical (31.56%) and Marketing (10.00%).
+- Within the attrited employee group, 41.22% have an Education Field of Life Sciences, followed by Medical (31.56%) and Marketing (10.82%).
 
 ## Final Conclusion
 -
