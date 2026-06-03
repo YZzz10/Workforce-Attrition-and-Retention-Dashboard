@@ -1,7 +1,7 @@
 # HR Workforce Analytics Dashboard
 
 ## Project Objective
-To analyze employee data and identify key patterns in workforce structure and attrition to support data-driven HR decision-making.
+To identify the main drivers and patterns of employee attrition across the organization to identify key drivers of turnover and support targeted retention strategies.
 
 ## Dataset Used
 - <a href="https://github.com/YZzz10/HR-Analytics-Dashboard/blob/main/HR%20Dataset.xlsx">HR Dataset</a>
@@ -33,8 +33,8 @@ To analyze employee data and identify key patterns in workforce structure and at
 
 ## Project Insight
 - Employees aged under 25 exhibit the highest attrition rate, at approximately XX%, indicating that younger employees are significantly more likely to leave the company compared to other age groups. This suggests the company should further investigate potential drivers such as career development opportunities, compensation competitiveness, and onboarding experience, in order to prevent long-term workforce aging and talent imbalance.
--By department, the HR department shows the highest attrition rate, which is consistent with the satisfaction survey results, where HR also records a notably higher proportion of dissatisfied employees. This indicates a strong relationship between employee dissatisfaction and turnover within this department, suggesting the need to investigate the root causes of high attrition and low satisfaction in this department and assess potential areas for improvement.
--Among employees who left the company, males have a higher attrition rate than females, indicating a gender imbalance in retention, with male employees being more likely to leave the organization.
+- By department, the HR department shows the highest attrition rate, which is consistent with the satisfaction survey results, where HR also records a notably higher proportion of dissatisfied employees. This indicates a strong relationship between employee dissatisfaction and turnover within this department, suggesting the need to investigate the root causes of high attrition and low satisfaction in this department and assess potential areas for improvement.
+- Among employees who left the company, males have a higher attrition rate than females, indicating a gender imbalance in retention, with male employees being more likely to leave the organization.
 
 ## Final Conclusion
 -
