@@ -20,7 +20,7 @@ havent edited To identify the main drivers and patterns of employee attrition ac
 ## Project Insight
 - Attrition rates generally decline as employee tenure increases. The one-year tenure group exhibits one of the highest attrition rates and the highest attrition count, making it the largest contributor to overall employee turnover, while attrition counts across most other tenure groups remain relatively low and comparable.
 
-- Attrition rates generally decline as age increases before rising slightly among employees aged 55–60. Despite exhibiting the highest attrition rate, employees aged 18–24 contribute relatively few attrited employees. In contrast, employees aged 30–34 record the highest attrition count, driven by their large workforce size and relatively high attrition rate. Employees aged 35–54 generally exhibit both lower attrition rates and lower attrition counts.
+- Attrition rates generally decline as age increases before rising slightly among employees aged 55–60. Employee population size increases through age 30–34 before gradually declining across older age groups. As a result, employees aged 30–34 record the highest attrition count, followed closely by employees aged 25–29, making these age groups the primary contributors to overall employee turnover.
 
 - An inverse relationship between salary and attrition is evident in both Sales and HR roles, while the pattern is less consistent within the R&D department, suggesting that although compensation appears to explain part of the variation in attrition, its impact varies across job roles.
 - Managers consistently receive the highest average salaries and exhibit the lowest attrition rates across all departments.
