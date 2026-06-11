@@ -34,6 +34,6 @@ havent edited To identify the main drivers and patterns of employee attrition ac
 
 ## Final Conclusion
 - Prioritize retention initiatives for employees in their first year, as reducing turnover within this group could have the greatest impact on overall employee attrition.
--
+- Prioritize retention initiatives for employees aged 25–29 and 30–34, as these groups account for the highest attrition counts across all age categories.
 -
 
