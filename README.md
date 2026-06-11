@@ -19,7 +19,9 @@ To identify the main drivers and patterns of employee attrition across the organ
 
 - A general decline in attrition can be observed as job level increases. However, the relationship between job level and attrition is not uniform across all roles. While attrition generally decreases at higher levels, some positions continue to exhibit elevated turnover at intermediate levels, indicating that factors beyond job level may also influence employee retention.
 
+- Attrited employees tend to report lower job satisfaction, while current employees are more likely to report higher satisfaction levels, suggesting that job satisfaction is closely associated with employee retention.
 - Although managerial roles generally exhibit lower attrition rates, current employees in several managerial groups continue to report relatively high proportions of low satisfaction ratings. This suggests that low attrition does not necessarily imply high employee satisfaction.
+
 
 ## Final Conclusion
 -
