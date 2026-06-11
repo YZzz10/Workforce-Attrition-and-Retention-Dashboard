@@ -2,7 +2,7 @@
 
 
 ## Project Objective
-To identify the main drivers and patterns of employee attrition across the organization and support targeted retention strategies, thereby improving overall workforce stability.
+havent edited To identify the main drivers and patterns of employee attrition across the organization and support targeted retention strategies, thereby improving overall workforce stability.
 
 
 ## Dataset Used
