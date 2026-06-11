@@ -17,6 +17,10 @@ To identify the main drivers and patterns of employee attrition across the organ
 - Managers consistently receive the highest average salaries and exhibit the lowest attrition rates across all departments.
 - Sales Representatives exhibit the highest attrition rate despite earning the lowest average monthly salary, making them the employee group with the greatest retention risk.
 
+- A general decline in attrition can be observed as job level increases. However, the relationship between job level and attrition is not uniform across all roles. While attrition generally decreases at higher levels, some positions continue to exhibit elevated turnover at intermediate levels, indicating that factors beyond job level may also influence employee retention.
+
+- Although managerial roles generally exhibit lower attrition rates, current employees in several managerial groups continue to report relatively high proportions of low satisfaction ratings. This suggests that low attrition does not necessarily imply high employee satisfaction.
+
 ## Final Conclusion
 -
 -
