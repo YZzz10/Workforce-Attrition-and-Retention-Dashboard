@@ -10,7 +10,7 @@ To identify the main drivers and patterns of employee attrition across the organ
 
 
 ## View Dashboard
-<a href="https://public.tableau.com/app/profile/yixin.zhu3122/viz/HRAnalyticsDashboard_17789752114300/HRAnalyticsDashboard">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
+<a href="https://public.tableau.com/app/profile/yixin.zhu3122/viz/HRAnalyticsDashboard_17789752114300/Dashboard">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
 
 
 ## Dashboard
