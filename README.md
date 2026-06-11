@@ -28,6 +28,9 @@ havent edited To identify the main drivers and patterns of employee attrition ac
 
 - A general decline in attrition can be observed as job level increases. However, the relationship between job level and attrition is not uniform across all roles. While attrition generally decreases at higher levels, some positions continue to exhibit elevated turnover at intermediate levels, indicating that factors beyond job level may also influence employee retention.
 
+
+
+
 - Attrited employees tend to report lower job satisfaction, while current employees are more likely to report higher satisfaction levels, suggesting that job satisfaction is closely associated with employee retention.
 - Although managerial roles generally exhibit lower attrition rates, current employees in several managerial groups continue to report relatively high proportions of low satisfaction ratings. This suggests that low attrition does not necessarily imply high employee satisfaction.
 
@@ -35,5 +38,9 @@ havent edited To identify the main drivers and patterns of employee attrition ac
 ## Final Conclusion
 - Prioritize retention initiatives for employees in their first year, as reducing turnover within this group could have the greatest impact on overall employee attrition.
 - Prioritize retention initiatives for employees aged 25–29 and 30–34, as these groups account for the highest attrition counts across all age categories.
--
+- Develop role-specific retention strategies rather than relying solely on compensation adjustments, as the relationship between salary and attrition varies across job roles.
+- Evaluate the factors contributing to strong retention among managerial roles and explore whether similar practices can be adapted for other employee groups.
+- Review compensation and retention strategies for Sales Representatives to reduce employee turnover.
+
+- Develop role-specific retention strategies rather than relying solely on job level as an indicator of attrition risk.
 
