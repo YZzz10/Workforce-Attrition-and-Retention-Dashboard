@@ -1,4 +1,4 @@
-# HR Workforce Analytics Dashboard
+# Workforce Attrition & Retention Dashboard
 
 
 ## Project Objective
