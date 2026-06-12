@@ -19,15 +19,11 @@ havent edited To identify the main drivers and patterns of employee attrition ac
 
 ## Project Insight
 - Attrition rates generally decline as employee tenure increases. The one-year tenure group exhibits one of the highest attrition rates and the highest attrition count, making it the largest contributor to overall employee turnover, while attrition counts across most other tenure groups remain relatively low and comparable.
-
 - Attrition rates generally decline as age increases before rising slightly among employees aged 55–60. Employee population size increases through age 30–34 before gradually declining across older age groups. As a result, employees aged 30–34 record the highest attrition count, followed closely by employees aged 25–29, making these age groups the primary contributors to overall employee turnover.
-
 - An inverse relationship between salary and attrition is evident in both Sales and HR roles, while the pattern is less consistent within the R&D department, suggesting that although compensation appears to explain part of the variation in attrition, its impact varies across job roles.
 - Managers consistently receive the highest average salaries and exhibit the lowest attrition rates across all departments.
 - Sales Representatives exhibit the highest attrition rate despite earning the lowest average monthly salary, making them the employee group with the greatest retention risk.
-
 - A general decline in attrition can be observed as job level increases. However, the relationship between job level and attrition is not uniform across all roles. While attrition generally decreases at higher levels, some positions continue to exhibit elevated turnover at intermediate levels, indicating that factors beyond job level may also influence employee retention.
-
 - Attrited employees tend to report lower job satisfaction, while current employees are more likely to report higher satisfaction levels, suggesting that job satisfaction is closely associated with employee retention.
 - Although managerial roles generally exhibit lower attrition rates, current employees in several managerial groups continue to report relatively high proportions of low satisfaction ratings. This suggests that low attrition does not necessarily imply high employee satisfaction.
 
