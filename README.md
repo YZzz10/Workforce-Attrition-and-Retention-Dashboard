@@ -2,8 +2,7 @@
 
 
 ## Project Objective
-havent edited To identify the main drivers and patterns of employee attrition across the organization and support targeted retention strategies, thereby improving overall workforce stability.
-
+Identify key drivers of employee attrition and factors that support workforce retention.
 
 ## Dataset Used
 - <a href="https://github.com/YZzz10/HR-Analytics-Dashboard/blob/main/HR%20Dataset.xlsx">HR Dataset</a>
